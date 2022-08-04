@@ -5,7 +5,6 @@ In the project directory, you have to run by step:
 ### `npx neu update`
 
 Runs the update command for Neutralino.\
-You can learn more [Neutralinojs](https://neutralino.js.org/docs/).
 
 ### `yarn build`
 
@@ -45,5 +44,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
+You can learn more in the [Neutralinojs documentation](https://neutralino.js.org/docs/).
 To learn React, check out the [React documentation](https://reactjs.org/).
