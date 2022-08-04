@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can have to run  by step:
+In the project directory, you have to run by step:
 
 ### 'npx neu update'
 
