@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can have to run  by step:
 
-## 'npx neu update'
+### 'npx neu update'
 
 Runs the update command for Neutralino
 
