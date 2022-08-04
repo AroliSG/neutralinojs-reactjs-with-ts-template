@@ -16,7 +16,8 @@
       "height": 500,
       "minWidth": 400,
       "minHeight": 200,
-      "icon": "/build/favicon.ico"
+      "icon": "/build/favicon.ico",
+      "enableInspector": true
     }
   },
   "cli": {

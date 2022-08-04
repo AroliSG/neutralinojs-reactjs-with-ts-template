@@ -27,6 +27,4 @@ root.render(
 );
 
 
-if (window.Neutralino) {
-  window.Neutralino.init ();
-}
+window.Neutralino.init ();
