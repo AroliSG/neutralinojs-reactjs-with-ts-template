@@ -8,7 +8,7 @@ In the project directory, you have to run by step:
 
 ### `npx neu update`
 
-Runs the update command for Neutralino
+Runs the update command for Neutralino.\
 You can learn more [Neutralinojs](https://neutralino.js.org/docs/).
 
 ### `yarn build`
