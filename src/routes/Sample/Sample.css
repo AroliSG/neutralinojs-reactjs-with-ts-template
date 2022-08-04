@@ -1,0 +1,10 @@
+
+.sample_parent {
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+.sample {
+    color: white;
+    padding-right: 10px;
+}
