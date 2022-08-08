@@ -8,7 +8,7 @@ function App (): JSX.Element {
     <div className="App">
       <nav>
         <Link className='Label' to={'/Home'}>Home</Link>
-        <Link className='Label' to={'/Sample'}>Test</Link>
+        <Link className='Label' to={'/Sample'}>Sample</Link>
       </nav>
       <Outlet/>
     </div>
